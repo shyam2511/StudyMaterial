@@ -1,0 +1,2 @@
+verilog work "half_adder.v"
+verilog work "full_adder.v"

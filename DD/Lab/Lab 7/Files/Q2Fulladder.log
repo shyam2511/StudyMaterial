@@ -1,0 +1,31 @@
+Circuit: * C:\Users\nvshy\Downloads\Q2Fulladder.asc
+
+WARNING: Less than two connections to node C.  This node is used by R:U1:OUT1:OUT.
+WARNING: Less than two connections to node C_BAR.  This node is used by R:U1:OUT2:OUT.
+WARNING: Less than two connections to node S.  This node is used by R:U2:OUT1:OUT.
+WARNING: Less than two connections to node S_BAR.  This node is used by R:U2:OUT2:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+
+Date: Sun Oct 31 15:03:25 2021
+Total elapsed time: 0.109 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4329
+traniter = 4318
+tranpoints = 2027
+accept = 1859
+rejected = 168
+matrix size = 174
+fillins = 0
+solver = Normal
+Thread vector: 8.8/4.7[7] 2.9/1.6[7] 2.4/1.5[7] 0.2/0.5[1]  2592/500
+Matrix Compiler1: 3.83 KB object code size  0.9/0.6/[0.4]
+Matrix Compiler2: 8.04 KB object code size  0.7/1.0/[0.4]
+
+

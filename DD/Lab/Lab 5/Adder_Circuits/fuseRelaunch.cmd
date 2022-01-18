@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Y_II_SEM_I/DD_Lab/Exp_5/Adder_Circuits/fourbit_adder_test_isim_beh.exe" -prj "E:/Y_II_SEM_I/DD_Lab/Exp_5/Adder_Circuits/fourbit_adder_test_beh.prj" "work.fourbit_adder_test" "work.glbl" 

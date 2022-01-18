@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Exp_6/four_bit_adder.xst" -ofn "D:/Exp_6/four_bit_adder.syr" 
+xst -intstyle ise -ifn "D:/Exp_6/four_bit_adder.xst" -ofn "D:/Exp_6/four_bit_adder.syr" 

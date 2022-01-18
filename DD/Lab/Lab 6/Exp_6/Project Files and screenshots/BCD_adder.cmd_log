@@ -1,0 +1,3 @@
+vhdtdtfi -lib work D:/Exp_6/BCD_adder.v -lang verilog -prj Exp_6 -o BCD_adder.spl -module BCD_adder -template C:/Xilinx/14.1/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 BCD_adder.spl D:/Exp_6/BCD_adder.sym 
+vhdtdtfi -lang verilog -prj Exp_6 -o D:/Exp_6/BCD_adder.tfi -lib work D:/Exp_6//BCD_adder.v -module BCD_adder -template C:/Xilinx/14.1/ISE_DS/ISE//data/tfi.tft -deleteonerror 
