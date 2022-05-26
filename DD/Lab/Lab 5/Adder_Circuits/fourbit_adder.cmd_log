@@ -1,1 +1,0 @@
-xst -intstyle ise -ifn "E:/Y_II_SEM_I/DD_Lab/Exp_5/Adder_Circuits/fourbit_adder.xst" -ofn "E:/Y_II_SEM_I/DD_Lab/Exp_5/Adder_Circuits/fourbit_adder.syr" 

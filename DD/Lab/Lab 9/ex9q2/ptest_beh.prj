@@ -1,4 +1,0 @@
-verilog work "../ISE/ex9q2/multiplexer.v"
-verilog work "Parity.v"
-verilog work "../exp9q1/ptest.v"
-verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
